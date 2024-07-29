@@ -90,6 +90,8 @@ display(tabela)
 ### Conclusão
 Este projeto visa ajudar o banco a classificar o score de crédito dos clientes de forma automática, utilizando inteligência artificial para melhorar a tomada de decisões.
 
+## Licença
+Este projeto é para fins educacionais e não possui uma licença específica. Todos os direitos reservados à Jornada Python.
 ### Agradecimentos
 Este projeto foi desenvolvido durante a aula gratuita da Jornada Python.
 
